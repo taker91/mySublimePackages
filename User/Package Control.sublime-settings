@@ -1,0 +1,41 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Blade Snippets",
+		"Bootstrap 3 Autocomplete",
+		"Bootstrap 3 Snippets",
+		"CodeFormatter",
+		"ColorSchemeSelector",
+		"Dayle Rees Color Schemes",
+		"DocBlockr",
+		"Facebook Material Theme",
+		"HTML5",
+		"Jedi - Python autocompletion",
+		"jQuery",
+		"Laravel 5 Snippets",
+		"Material Theme",
+		"Package Control",
+		"PHP Companion",
+		"PhpDoc",
+		"PHPIntel",
+		"Python 3",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-php",
+		"SummitLinter",
+		"Terminal",
+		"Theme - Afterglow",
+		"Theme - Soda",
+		"Trimmer",
+		"Vuejs Complete Package",
+		"Vuejs Snippets"
+	]
+}

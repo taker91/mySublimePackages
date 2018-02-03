@@ -1,4 +1,10 @@
 [
 	{ "keys": ["ctrl+keypad_divide"], "command": "toggle_comment", "args": { "block": false } },
 	{ "keys": ["ctrl+shift+keypad_divide"], "command": "toggle_comment", "args": { "block": true } },
+	{ "keys": [":","n","r","p"], "command": "create_pane", "args": {"direction": "right", "give_focus": true } },
+	{ "keys": [":","n","b","p"], "command": "create_pane", "args": {"direction": "down", "give_focus": true } },
+	{ "keys": [":","d","p"], "command": "destroy_pane", "args": {"direction": "self"} },
+	{ "keys": ["f9"], "command": "expand_fqcn" },
+	{ "keys": ["f10"], "command": "find_use" },
+	{ "keys": ["f7"], "command": "insert_php_constructor_property" }
 ]
